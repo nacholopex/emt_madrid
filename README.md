@@ -2,8 +2,10 @@
 
 Análisis histórico de la oferta de autobuses que la Empresa Municipal de Transportes de Madrid (EMT Madrid) ha puesto para disfrute de los usuarios en las diferentes franjas horarias establecidas durante los años 2019, 2020 y 2021.
 
-# DATOS
-_Los datos han sido facilitados por EMT tras una solicitud al portal de transparencia._
+# HISTORIA
+Los datos han sido ofrecidos por la Empresa Municipal de Transportes de Madrid tras una solicitud al portal de transparencia. En un primer momento la EMT me denegó dicho conjunto de datos apoyándose en «tareas complejas» ya que dicen usar tecnologías offline y online.
+
+Al no estar conforme con la resolución presente una reclamación al Consejo de Transparencia y Buen Gobierno, quien dictaminó que dichos datos debían serme cedidos. (RT 0919/2021)
 
 Ha sido necesario la limpieza y elaboración nuevas columnas para poder realizar el estudio.
 
@@ -20,11 +22,6 @@ https://anonfiles.com/T201J42ay1/Coches_Cuadro_Oferta_Real_2021_zip
 
 https://anonfiles.com/U202J627y7/Coches_Cuadro_Oferta_Real_2019_zip
 
-
-# EXTRA
-Los datos han sido ofrecidos por la Empresa Municipal de Transportes de Madrid tras una solicitud que realicé. En un primer momento la EMT me denego los datos apoyándose en «tareas complejas» ya que dicen usar tecnologías offline y online.
-
-Al no estar conforme con la resolución presente una reclamación al Consejo de Transparencia y Buen Gobierno, quien dictaminó que dichos datos debían serme cedidos. (RT 0919/2021)
 
 # ESTRUCTURA DE LOS DATOS
 | Nombre del campo | Descripción | Formato | 
