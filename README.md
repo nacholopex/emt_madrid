@@ -5,7 +5,7 @@ Análisis histórico de la oferta de autobuses que la Empresa Municipal de Trans
 # HISTORIA
 Los datos han sido ofrecidos por la Empresa Municipal de Transportes de Madrid tras una solicitud al portal de transparencia. En un primer momento la EMT me denegó dicho conjunto de datos apoyándose en «tareas complejas» ya que dicen usar tecnologías offline y online.
 
-Al no estar conforme con la resolución presente una reclamación al Consejo de Transparencia y Buen Gobierno, quien dictaminó que dichos datos debían serme cedidos. (RT 0919/2021)
+Al no estar conforme con la resolución presente una reclamación al Consejo de Transparencia y Buen Gobierno, quien dictaminó que dichos datos debían serme cedidos. ([RT 0919/2021](https://www.consejodetransparencia.es/ct_Home/dam/jcr:feb996d5-7f97-4233-9779-bed65d15e622/RT_0919_2021.pdf))
 
 Ha sido necesario la limpieza y elaboración nuevas columnas para poder realizar el estudio.
 
