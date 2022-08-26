@@ -34,3 +34,8 @@ https://anonfiles.com/U202J627y7/Coches_Cuadro_Oferta_Real_2019_zip
 | Intervalo        | Intervalo horario correspondiente a la identificación de franja horaria       | hhmmss - hhmmss |
 | Coches            | Número de coches cuadro de la oferta real dotada al servicio       | Numérico |
 
+# QUEJAS Y DEFENSAS
+| TIPO | Política | MENSAJE | MÁS INFORMACIÓN | FECHA |
+| ---- | -------- | ------- | --------------- | ----- |
+| QUEJA| MÁSMADRID| Recortes en 16 líneas de EMT | [Twitter MásMadrid](https://twitter.com/MasMadrid__/status/1527248140444872705) - [LaTilde MásMadrid](https://latilde.masmadrid.org/recortes-emt-transporte-publico-autobuses-almeida/)| 2022/05/19 |
+| DEFENSA | Partido Popular | No hay recorte de servicio en EMT | [EuropaPress](https://www.europapress.es/madrid/noticia-carabante-asegura-no-hay-recorte-servicio-emt-mas-madrid-alerta-casi-40-autobuses-menos-16-lineas-20220523120756.html) | 2022/05/23 |
