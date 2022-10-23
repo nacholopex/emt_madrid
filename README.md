@@ -42,7 +42,7 @@ https://anonfiles.com/U202J627y7/Coches_Cuadro_Oferta_Real_2019_zip
 # METODOLOGÍA
 Para la realización de un análisis objetivo de los datos, ha sido necesario cruzar la información suministrada por EMT Madrid con diferentes conjuntos de datos (calendario laboral, número de viajeros e incidencias).
 
-Se ha usado el lenguaje de progrmación `Python` para realizar tareas de limpieza y concordancia de datos entre conjuntos - [Carpeta ETL](ETL/).
+Se ha usado el lenguaje de progrmación `Python` para realizar tareas de limpieza y concordancia de datos entre conjuntos.
 
 
 # QUEJAS Y DEFENSAS
